@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab7</string>
+    <string name="dialog">Dialog</string>
+    <string name="notification">Notification</string>
+    <string name="low_battery_title">Low battery</string>
+    <string name="low_battery_message">Please recharge your phone</string>
+    <string name="airplane_title">Airplane mode</string>
+    <string name="airplane_enabled_message">Airplane mode is enabled</string>
+    <string name="airplane_disabled_message">Airplane mode is disabled</string>
+    <string name="camera_button_title">Camera button</string>
+    <string name="camera_button_message">Camera button pressed</string>
+    <string name="unknown_title">Unknown action</string>
+</resources>
